@@ -6,6 +6,6 @@ final class MyLibrary2Tests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(MyLibrary2().text, "Hello, World!")
+        XCTAssertEqual(MyLibrary2().text, "Hello, World! 111")
     }
 }
